@@ -1,4 +1,5 @@
 version: "3.7"
+
 services:
   basic-auth-plugin:
     image: ghcr.io/openfaas/basic-auth:0.20.12
